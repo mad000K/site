@@ -1,0 +1,10 @@
+body {
+	display: flex;
+	justify-content: center;
+}
+
+#check {
+	font-size: 30px;
+	background: blue;
+	color: white;
+}
